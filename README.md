@@ -20,3 +20,4 @@ I like to talk about development, so I wanna talk about it together. Besides Nod
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=oh_my_pos)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=byun618&repo=UFO)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=Cozy-Ho.github.io)](https://github.com/anuraghazra/github-readme-stats)
