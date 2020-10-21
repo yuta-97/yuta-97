@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Cozy-Ho/cozy-ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm KangJu Heo, 25 years old and majoring in Computer Science.
 
-Here are some ideas to get you started:
+I'm a full-stack web developer and currently studying Vue.js and Node.js.These days, my main concern is Block-chain, Server machine, Opensource, Docker and so on...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to talk about development, so I wanna talk about it together. Besides Node or Vue, I'm also interested in Dev Ops like Docker and AWS!
+
+### Info
+
+- 👯 I’m looking to collaborate on seoul.S.Korea
+- 📫 How to reach me: kj2693119@gmail.com
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cozy-ho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=oh_my_pos)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=byun618&repo=UFO)](https://github.com/anuraghazra/github-readme-stats)
