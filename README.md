@@ -16,5 +16,7 @@ I like to talk about development, so I wanna talk about it together. Besides Nod
 
 ---
 
+### I'm doing now
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=oh_my_pos)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=byun618&repo=UFO)](https://github.com/anuraghazra/github-readme-stats)
