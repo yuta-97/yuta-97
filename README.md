@@ -12,7 +12,7 @@ I like to talk about development, so I wanna talk about it together. Besides Nod
 - 📫 How to reach me: kj2693119@gmail.com
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cozy-ho&show_icons=true&theme=radical)]
+[cozy-ho's github stats](https://github-readme-stats.vercel.app/api?username=cozy-ho&show_icons=true&theme=radical)
 ---
 
 ### I'm doing now
