@@ -8,7 +8,7 @@ I like to talk about development, so I wanna talk about it together. Besides Nod
 
 ### Info
 
-- 👯 I’m looking to collaborate on seoul.S.Korea
+- 👯 I’m looking to collaborate on Seoul.S.Korea
 - 📫 How to reach me: kj2693119@gmail.com
 
 
