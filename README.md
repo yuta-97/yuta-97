@@ -16,7 +16,6 @@ I like to talk about development, so I wanna talk about it together. Besides Nod
 ---
 
 ### I'm doing now
-![cozy-ho's commit status](https://gist.github.com/Cozy-Ho/f6e897e96fb4845d20124fbc0ce510eb)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=oh_my_pos)](https://github.com/cozy-ho/oh_my_pos)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=byun618&repo=UFO)](https://github.com/byun618/UFO)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=Cozy-Ho.github.io)](https://github.com/cozy-ho/Cozy-Ho.github.io)
