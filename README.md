@@ -2,7 +2,7 @@
 
 I'm KangJu Heo, 25 years old and majoring in Computer Science.
 
-I'm a full-stack web developer and currently studying Vue.js and Node.js.These days, my main concern is Block-chain, Server machine, Opensource, Docker and so on...
+I'm a full-stack web developer and currently studying Vue.js and Node.js.These days, my main concern is Block-chain, Server machine, Opensource and so on...
 
 I like to talk about development, so I wanna talk about it together. Besides Node or Vue, I'm also interested in Dev Ops like Docker and AWS!
 
