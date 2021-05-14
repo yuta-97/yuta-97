@@ -8,6 +8,7 @@ I like to talk about development, so I wanna talk about it together. Besides Nod
 
 ### Info
 
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCozy-Ho&count_bg=%236EF9C2&title_bg=%23D49BFB&icon=&icon_color=%23E7E7E7&title=Hi+there&edge_flat=false)](https://hits.seeyoufarm.com)
 - 👯 I’m looking to collaborate on Seoul.S.Korea
 - 📫 How to reach me: kj2693119@gmail.com
 
@@ -16,8 +17,8 @@ I like to talk about development, so I wanna talk about it together. Besides Nod
 ---
 
 ### I'm doing now
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=oh_my_pos)](https://github.com/cozy-ho/oh_my_pos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=UFO_Server)](https://github.com/cozy-ho/UFO_Server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=OAuth2)](https://github.com/Cozy-Ho/OAuth2)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=GraphQL_practice)](https://github.com/Cozy-Ho/GraphQL_practice)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=photolog)](https://github.com/Cozy-Ho/photolog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=React_tutorial)](https://github.com/Cozy-Ho/React_tutorial)
 
