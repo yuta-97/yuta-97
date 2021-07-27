@@ -20,5 +20,5 @@ I like to talk about development, so I wanna talk about it together. Besides Nod
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=oidc-provider)](https://github.com/Cozy-Ho/oidc-provider)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=Apollo-server)](https://github.com/Cozy-Ho/Apollo-server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=photolog)](https://github.com/Cozy-Ho/photolog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=React_tutorial)](https://github.com/Cozy-Ho/React_tutorial)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=react-tutorial)](https://github.com/Cozy-Ho/react-tutorial)
 
