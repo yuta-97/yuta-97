@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm KangJu Heo, 25 years old and majoring in Computer Science.
+I'm KangJu Heo, 27 years old and majoring in Computer Science.
 
-I'm a full-stack web developer and currently studying Reat.js, Apollo, AWS-DynamoDB and GraphQL These days, my main concern is Block-chain, Server machine, Opensource and so on...
+I'm a Front-End web developer and currently studying Next.js, Apollo, GraphQL and Dart These days, my main concern is Server machine, Opensource and so on...
 
-I like to talk about development, so I wanna talk about it together. Besides Node or React, I'm also interested in Dev Ops like Docker and AWS!
+I like to talk about development, so I wanna talk about it together. Besides Node or React, I'm also interested in Dev Ops like K8S and AWS!
 
 ### Info
 
@@ -18,7 +18,6 @@ I like to talk about development, so I wanna talk about it together. Besides Nod
 
 ### I'm doing now
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=oidc-provider)](https://github.com/Cozy-Ho/oidc-provider)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=Apollo-server)](https://github.com/Cozy-Ho/Apollo-server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=hello_dart)](https://github.com/Cozy-Ho/hello_dart)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=photolog)](https://github.com/Cozy-Ho/photolog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cozy-ho&repo=react-tutorial)](https://github.com/Cozy-Ho/react-tutorial)
 
